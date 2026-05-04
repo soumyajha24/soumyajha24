@@ -1,195 +1,144 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Soumya%20Kumari&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Soumya%20Kumari&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20·%20ML%20·%20Deep%20Learning%20·%20Data%20Science&descAlignY=58&descSize=16&descColor=aaaacc"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EB8F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Python+%7C+ML+%7C+Deep+Learning+%7C+Data+Science;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+raw+data+%F0%9F%A4%96;Python+%7C+TensorFlow+%7C+Scikit-learn+%7C+OpenCV;Turning+numbers+into+decisions+%F0%9F%93%8A;Open+to+opportunities+%E2%80%94+let%27s+build+something!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=soumyajha24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="mailto:jhasoumya934@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/soumyajha24"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=soumyajha24&label=Profile+Views&color=7F77DD&style=flat)
+[![Gmail](https://img.shields.io/badge/-jhasoumya934@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhasoumya934@gmail.com)
+[![GitHub](https://img.shields.io/badge/-soumyajha24-181717?style=flat&logo=github&logoColor=white)](https://github.com/soumyajha24)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### `// about`
 
 ```python
 class SoumyaKumari:
-    def __init__(self):
-        self.name       = "Soumya Kumari"
-        self.role       = "AI/ML Engineer & Data Science Enthusiast"
-        self.education  = "B.Tech CSE @ UIET MDU, Rohtak (2022–2026)"
-        self.location   = "Rohtak, Haryana, India 🇮🇳"
-        self.email      = "jhasoumya934@gmail.com"
+    name     = "Soumya Kumari"
+    role     = "AI/ML Engineer & Data Scientist"
+    location = "Rohtak, Haryana, India 🇮🇳"
+    edu      = "B.Tech CSE @ UIET MDU (2022–2026) | CGPA: 8.1"
+    focus    = ["Machine Learning", "Deep Learning",
+                "Data Science", "Generative AI"]
 
-    def interests(self):
-        return [
-            "🤖 Machine Learning & Deep Learning",
-            "📊 Data Science & EDA",
-            "🌱 Generative AI & LLMs",
-            "🔬 Building real-world AI solutions",
-        ]
-
-    def fun_fact(self):
-        return "I can predict plant diseases AND movie preferences — just feed me data! 🌿🎬"
-
-me = SoumyaKumari()
-print(me.fun_fact())
+    # Currently building intelligent systems
+    # that turn raw data into real decisions
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### `// tech stack`
 
-<div align="center">
+**Languages**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### AI / ML / DL Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**AI / ML / Deep Learning**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-</div>
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=google-colab&logoColor=F9AB00)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
 ---
 
-## 🚀 Featured Projects
+### `// projects`
 
-<div align="center">
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-<h3 align="center">🏥 Multiple Health Disease Prediction</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Accuracy-92%25-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-ML-blue?style=flat-square&logo=python"/>
-</div>
-<p>
-Developed a smart health prediction system that detects <strong>3 distinct health conditions</strong> using machine learning classification models — achieving <strong>92% accuracy</strong>.
-</p>
+**🏥 Health Disease Prediction**
+> ML classification detecting **3 health conditions**
+> `92% accuracy` · Python · Scikit-learn
+
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-<h3 align="center">🌿 Plant Disease Detection</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-CNN-orange?style=flat-square"/>
-</div>
-<p>
-Built a CNN model to classify <strong>5 types of plant diseases</strong> with <strong>95% accuracy</strong> trained on a 2,000+ image dataset using TensorFlow & Keras.
-</p>
+**🌿 Plant Disease Detection**
+> CNN model classifying **5 disease types** on 2K+ images
+> `95% accuracy` · TensorFlow · Keras · OpenCV
+
 </td>
-
 </tr>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-<h3 align="center">🎬 Movie Recommendation System</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Dataset-50K%2B%20Ratings-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Filtering-Collaborative%20%2B%20Content-purple?style=flat-square"/>
-</div>
-<p>
-A recommendation engine on <strong>50,000+ movie ratings</strong> using collaborative & content-based filtering — improving accuracy by <strong>20%</strong>.
-</p>
+**🎬 Movie Recommendation System**
+> Collaborative + content-based filtering on **50K+ ratings**
+> `+20% accuracy boost` · Python · ML
+
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-<h3 align="center">📊 Data Science Portfolio</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Projects-4%20Complete-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter"/>
-</div>
-<p>
-A collection of <strong>4 end-to-end data science projects</strong> covering EDA, predictive modeling, and rich visualizations with Python.
-</p>
+**📊 Data Science Portfolio**
+> 4 end-to-end projects — EDA, modeling, visualization
+> `Predictive Modeling` · Jupyter · Python
+
 </td>
-
 </tr>
 </table>
+
+---
+
+### `// certifications`
+
+| 🟣 | Certificate | Issuer |
+|---|---|---|
+| ● | Certified Data Science Professional | Oracle University |
+| ● | Oracle Certified Foundations Associate | Oracle University |
+| ● | Generative AI For Data Science | Coursera |
+| ● | Generative AI: Prompt Engineering Basics | Coursera |
+
+---
+
+### `// github stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyajha24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajha24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajha24&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD"/>
+
 </div>
 
 ---
 
-## 🎓 Certifications
+### `// connect`
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Issuer |
-|---|---|
-| Certified Data Science Professional | Oracle University |
-| Oracle Certified Foundations Associate | Oracle University |
-| Generative AI For Data Science | Coursera |
-| Generative AI: Prompt Engineering Basics | Coursera |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumyajha24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajha24&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajha24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="mailto:jhasoumya934@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jhasoumya934@gmail.com)
 &nbsp;
-<a href="https://github.com/soumyajha24">
-  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/soumyajha24)
 
-<br/><br/>
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
